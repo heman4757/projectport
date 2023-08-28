@@ -1,0 +1,30 @@
+body{
+	text-align: center;
+}
+header{
+	background-color:darkblue;
+	color: whitesmoke;
+	padding: 20px;}
+li{
+	display: inline;
+	padding:30px;
+	color: black;
+}
+a{
+	text-decoration: none;
+	color:whitesmoke;
+}
+#Home img{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+}
+#Portfolio {
+	background-color:paleturquoise; 
+	padding:20px;
+}
+footer{
+	background-color: grey;
+	color:white;
+	padding:20px;
+}
